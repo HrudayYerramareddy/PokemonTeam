@@ -256,7 +256,7 @@ function PokemonTeamBuilder() {
                               <Icon size={14} />
                               <span>{pokemon.role}</span>
                             </div>
-                            <div className="text-xs text-gray-500 mt-1">
+                            <div className="text-[10px] text-gray-500 mt-1">
                             HP {pokemon.hp} • ATK {pokemon.atk} • DEF {pokemon.def} • SPA {pokemon.spa} • SPD {pokemon.spd} • SPE {pokemon.spe}
                             </div>
                           </div>
