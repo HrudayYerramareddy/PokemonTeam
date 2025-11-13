@@ -257,7 +257,7 @@ function PokemonTeamBuilder() {
                               <span>{pokemon.role}</span>
                             </div>
                             <div className="text-xs text-gray-500 mt-1">
-                              HP {pokemon.hp} • ATK {pokemon.atk} • DEF {pokemon.def} • SPE {pokemon.spe}
+                            HP {pokemon.hp} • ATK {pokemon.atk} • DEF {pokemon.def} • SPA {pokemon.spa} • SPD {pokemon.spd} • SPE {pokemon.spe}
                             </div>
                           </div>
                           <button
