@@ -199,7 +199,7 @@ function PokemonTeamBuilder() {
             Build your team and get AI-powered recommendations
           </p>
           <p className="text-sm text-gray-500">
-            {POKEMON_DB.length} Pokémon available • Powered by data science
+            {POKEMON_DB.length} Pokémon available
           </p>
         </div>
 
