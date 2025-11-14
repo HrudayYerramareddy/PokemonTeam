@@ -196,7 +196,7 @@ function PokemonTeamBuilder() {
             ⚡ Pokémon Team Builder
           </h1>
           <p className="text-gray-600 mb-1">
-            Build your team and get AI-powered recommendations
+            Build your team and get recommendations
           </p>
           <p className="text-sm text-gray-500">
             {POKEMON_DB.length} Pokémon available
